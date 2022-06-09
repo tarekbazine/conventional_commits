@@ -1,19 +1,23 @@
 {
   "name": "conventional_commits",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tarekbazine/conventional_commits.git"
+    "url": "https://github.com/tarekbazine/conventional_commits.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tarekbazine/conventional_commits/issues"
   },
-  "homepage": "https://github.com/tarekbazine/conventional_commits#readme"
+  "homepage": "https://github.com/tarekbazine/conventional_commits#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.3"
+  }
 }
