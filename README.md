@@ -2,4 +2,4 @@
 
 ### Cool Feature 1.
 
-### Yet another Cooler Feature 2
+### Yet another Cooler Feature 2.
