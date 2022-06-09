@@ -1,1 +1,1 @@
-So Cool Feature 1.
+Cool Feature 1.
