@@ -1,8 +1,8 @@
 {
   "commitizen": {
-    "version": "0.0.1",
+    "version": "1.0.0",
     "tag_format": "$version",
-    "version_files":  [
+    "version_files": [
       "package.json:\"version\":"
     ]
   }
